@@ -42,7 +42,7 @@ export default function Navbar() {
         w={"100%"} 
         >
             <Link to="/" >
-            <Image w="35%" height={"80%"} src='https://i.postimg.cc/26XBGgYg/logo.png' alt='Logo' />
+            <Image w="35%" height={"80%"} src='https://i.postimg.cc/Fz78KhSP/fd.png' alt='Logo' />
             </Link>
             
           <Spacer />
@@ -92,7 +92,7 @@ const DrawerExample = () => {
             <DrawerCloseButton />
   
             <DrawerBody align={"center"}>
-              <Text fontSize={"13px"} pb={"10px"} pt={"30px"}> ARE YOU A PROPERTY OWNER/MANAGER? </Text>
+              <Text fontSize={"13px"} pb={"10px"} pt={"40px"}> ARE YOU A PROPERTY OWNER/MANAGER? </Text>
               <Text fontSize={"13px"} color={'gray'} >List New Property</Text>
               <Text fontSize={"13px"} color={'gray'}>Sign In To Your Dashbosrd</Text>
               <Divider pt={"2px"} pb={"30px"}/>
