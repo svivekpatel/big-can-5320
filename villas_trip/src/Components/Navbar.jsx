@@ -14,7 +14,6 @@ import {
   DrawerOverlay,
   DrawerContent,
   DrawerCloseButton,
-  Input,
   Divider,
   Spacer,
   Center,
@@ -34,15 +33,13 @@ export default function Navbar() {
   return (
     <Box fontFamily={"sans-serif"}>
       <Flex
-        bg={useColorModeValue('#262626')}
+        bg={useColorModeValue('#2B2A2C')}
         color={'white'}
-        minH={'80px'}
-        py={{ base: 2 }}
+        py={{ base: 1 }}
         px={{ base: 5 }}
-        w={"100%"} 
         >
             <Link to="/" >
-            <Image w="35%" height={"80%"} src='https://i.postimg.cc/Fz78KhSP/fd.png' alt='Logo' />
+            <Image w="35%" height={"90%"} src='https://i.postimg.cc/Fz78KhSP/fd.png' alt='Logo' />
             </Link>
             
           <Spacer />

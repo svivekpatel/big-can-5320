@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "img": "https://d2v8elt324ukrb.cloudfront.net/static/new_template/media/home-small/goa-11.f1c86735cec4.jpg",
+      "location": "Goa",
+      "text": "Vacation Rentals"
+    },
+    {
+      "id": 2,
+      "img": "https://d2v8elt324ukrb.cloudfront.net/static/new_template/media/home-small/galle-27739.4e9874b7f375.jpg",
+      "location": "Galle",
+      "text": "Vacation Rentals"
+    },
+    {
+      "id": 3,
+      "img": "https://d2v8elt324ukrb.cloudfront.net/static/new_template/media/home-small/phuket-72.9d6f9e3883be.jpg",
+      "location": "Phuket",
+      "text": "Vacation Rentals"
+    },
+    {
+      "id": 4,
+      "img": "https://d2v8elt324ukrb.cloudfront.net/static/new_template/media/home-small/kandy-5144.2adb0839ea6a.jpg",
+      "location": "Kandy",
+      "text": "Vacation Rentals"
+    },
+    {
+      "id": 5,
+      "img": "https://d2v8elt324ukrb.cloudfront.net/static/new_template/media/home-small/koh-samui-5119.82e8a6c9cf8b.jpg",
+      "location": "Koh Samui",
+      "text": "Vacation Rentals"
+    },
+    {
+      "id": 6,
+      "img": "https://d2v8elt324ukrb.cloudfront.net/static/new_template/media/home-small/lonavala-2293.ab3b797cddf6.jpg",
+      "location": "Lonavala",
+      "text": "Vacation Rentals"
+    },
+    {
+      "id": 7,
+      "img": "https://d2v8elt324ukrb.cloudfront.net/static/new_template/media/home-small/kerala-18.c082ce41a521.jpg",
+      "location": "Kerala",
+      "text": "Vacation Rentals"
+    },
+    {
+      "id": 8,
+      "img": "https://d2v8elt324ukrb.cloudfront.net/static/new_template/media/home-small/himachal-pradesh-14.4910c5bade68.jpg",
+      "location": "Himachal Pradesh",
+      "text": "Vacation Rentals"
+    },
+    {
+      "id": 9,
+      "img": "https://d2v8elt324ukrb.cloudfront.net/static/new_template/media/home-small/coorg-5464.83497c6367a3.jpg",
+      "location": "Coorg",
+      "text": "Vacation Rentals"
+    },
+    {
+      "id": 10,
+      "img": "https://d2v8elt324ukrb.cloudfront.net/static/new_template/media/home-small/alibag-2129.fde4732b8d72.jpg",
+      "location": "Alibag",
+      "text": "Vacation Rentals"
+    }
+  ]
